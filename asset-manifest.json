@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/paginareact/static/css/main.7b28f93b.chunk.css",
-    "main.js": "/paginareact/static/js/main.795066f8.chunk.js",
-    "main.js.map": "/paginareact/static/js/main.795066f8.chunk.js.map",
+    "main.js": "/paginareact/static/js/main.056c38e6.chunk.js",
+    "main.js.map": "/paginareact/static/js/main.056c38e6.chunk.js.map",
     "runtime-main.js": "/paginareact/static/js/runtime-main.bccf3e1b.js",
     "runtime-main.js.map": "/paginareact/static/js/runtime-main.bccf3e1b.js.map",
     "static/css/2.8c0e6b67.chunk.css": "/paginareact/static/css/2.8c0e6b67.chunk.css",
-    "static/js/2.dd32101f.chunk.js": "/paginareact/static/js/2.dd32101f.chunk.js",
-    "static/js/2.dd32101f.chunk.js.map": "/paginareact/static/js/2.dd32101f.chunk.js.map",
+    "static/js/2.593514a5.chunk.js": "/paginareact/static/js/2.593514a5.chunk.js",
+    "static/js/2.593514a5.chunk.js.map": "/paginareact/static/js/2.593514a5.chunk.js.map",
     "index.html": "/paginareact/index.html",
     "static/css/2.8c0e6b67.chunk.css.map": "/paginareact/static/css/2.8c0e6b67.chunk.css.map",
     "static/css/main.7b28f93b.chunk.css.map": "/paginareact/static/css/main.7b28f93b.chunk.css.map",
-    "static/js/2.dd32101f.chunk.js.LICENSE.txt": "/paginareact/static/js/2.dd32101f.chunk.js.LICENSE.txt",
+    "static/js/2.593514a5.chunk.js.LICENSE.txt": "/paginareact/static/js/2.593514a5.chunk.js.LICENSE.txt",
     "static/media/admin.fe622dc2.jpg": "/paginareact/static/media/admin.fe622dc2.jpg",
     "static/media/amigos.c97f9ed0.jpg": "/paginareact/static/media/amigos.c97f9ed0.jpg",
     "static/media/aniversario.35ce32b6.jpg": "/paginareact/static/media/aniversario.35ce32b6.jpg",
@@ -39,8 +39,8 @@
   "entrypoints": [
     "static/js/runtime-main.bccf3e1b.js",
     "static/css/2.8c0e6b67.chunk.css",
-    "static/js/2.dd32101f.chunk.js",
+    "static/js/2.593514a5.chunk.js",
     "static/css/main.7b28f93b.chunk.css",
-    "static/js/main.795066f8.chunk.js"
+    "static/js/main.056c38e6.chunk.js"
   ]
 }
